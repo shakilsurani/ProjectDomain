@@ -1,0 +1,13 @@
+C:\Shakil\Australia\Learning\ProjectDomain\DomainBL\bin\Debug\DomainBL.dll
+C:\Shakil\Australia\Learning\ProjectDomain\DomainBL\bin\Debug\DomainBL.pdb
+C:\Shakil\Australia\Learning\ProjectDomain\DomainBL\obj\Debug\DomainBL.dll
+C:\Shakil\Australia\Learning\ProjectDomain\DomainBL\obj\Debug\DomainBL.pdb
+C:\Shakil\Australia\Learning\Domain\ProjectDomain\DomainBL\bin\Debug\DomainBL.dll
+C:\Shakil\Australia\Learning\Domain\ProjectDomain\DomainBL\bin\Debug\DomainBL.pdb
+C:\Shakil\Australia\Learning\Domain\ProjectDomain\DomainBL\obj\Debug\DomainBL.dll
+C:\Shakil\Australia\Learning\Domain\ProjectDomain\DomainBL\obj\Debug\DomainBL.pdb
+C:\Shakil\Learning\Code\ProjectDomain\DomainBL\bin\Debug\DomainBL.dll
+C:\Shakil\Learning\Code\ProjectDomain\DomainBL\bin\Debug\DomainBL.pdb
+C:\Shakil\Learning\Code\ProjectDomain\DomainBL\obj\Debug\DomainBL.csprojResolveAssemblyReference.cache
+C:\Shakil\Learning\Code\ProjectDomain\DomainBL\obj\Debug\DomainBL.dll
+C:\Shakil\Learning\Code\ProjectDomain\DomainBL\obj\Debug\DomainBL.pdb

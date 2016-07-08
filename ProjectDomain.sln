@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomainBL", "DomainBL\DomainBL.csproj", "{690BA4CE-EDBB-45A9-B90A-7F90E4C8F747}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomainUnitTest", "DomainUnitTest\DomainUnitTest.csproj", "{86D0EACC-9150-42F9-815B-8ACC73BCF45C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{690BA4CE-EDBB-45A9-B90A-7F90E4C8F747}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{690BA4CE-EDBB-45A9-B90A-7F90E4C8F747}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{690BA4CE-EDBB-45A9-B90A-7F90E4C8F747}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{690BA4CE-EDBB-45A9-B90A-7F90E4C8F747}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86D0EACC-9150-42F9-815B-8ACC73BCF45C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86D0EACC-9150-42F9-815B-8ACC73BCF45C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86D0EACC-9150-42F9-815B-8ACC73BCF45C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86D0EACC-9150-42F9-815B-8ACC73BCF45C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
